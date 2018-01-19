@@ -1,4 +1,4 @@
-penggunaan codeigniter pada sistem e-rekruitment pada RS BAITURRAHIM JAMBI
+Penggunaan codeigniter pada sistem e-rekruitment pada RS BAITURRAHIM JAMBI
 ***************
 
 ###################
