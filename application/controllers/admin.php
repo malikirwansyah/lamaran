@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Puny4adminb3 extends CI_Controller {
+class Admin extends CI_Controller {
 
 	var $folder =   "adminb3/login";
 //	var $kiri	=	"kiri";
@@ -25,10 +25,10 @@ class Puny4adminb3 extends CI_Controller {
 
 	public function index()
 	{
-		redirect('puny4adminb3/m45uk_log1n');
+		redirect('admin/masuk');
 	}
 
-	public function m45uk_log1n()
+	public function masuk()
 	{
 		if($this->session->userdata('logged_in')=="")
 		{
